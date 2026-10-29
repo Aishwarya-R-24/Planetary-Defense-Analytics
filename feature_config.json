@@ -1,0 +1,146 @@
+[
+    {
+        "name": "H",
+        "default": 15.2
+    },
+    {
+        "name": "albedo",
+        "default": 0.079
+    },
+    {
+        "name": "epoch",
+        "default": 2459000.5
+    },
+    {
+        "name": "epoch_mjd",
+        "default": 59000.0
+    },
+    {
+        "name": "epoch_cal",
+        "default": 20200531.0
+    },
+    {
+        "name": "e",
+        "default": 0.139065049815201
+    },
+    {
+        "name": "a",
+        "default": 2.754369749199574
+    },
+    {
+        "name": "q",
+        "default": 2.366937448997547
+    },
+    {
+        "name": "i",
+        "default": 9.351464700570894
+    },
+    {
+        "name": "om",
+        "default": 160.2615426708412
+    },
+    {
+        "name": "w",
+        "default": 183.4816917058304
+    },
+    {
+        "name": "ma",
+        "default": 187.6398572432672
+    },
+    {
+        "name": "ad",
+        "default": 3.173349466980842
+    },
+    {
+        "name": "n",
+        "default": 0.2156109007877917
+    },
+    {
+        "name": "tp",
+        "default": 2459004.947287528
+    },
+    {
+        "name": "tp_cal",
+        "default": 20200604.4472875
+    },
+    {
+        "name": "per",
+        "default": 1669.67439347753
+    },
+    {
+        "name": "per_y",
+        "default": 4.57131935243677
+    },
+    {
+        "name": "moid",
+        "default": 1.38781
+    },
+    {
+        "name": "moid_ld",
+        "default": 540.0940177
+    },
+    {
+        "name": "rms",
+        "default": 0.54419
+    },
+    {
+        "name": "pha_N",
+        "default": 1.0
+    },
+    {
+        "name": "pha_Y",
+        "default": 0.0
+    },
+    {
+        "name": "neo_N",
+        "default": 1.0
+    },
+    {
+        "name": "neo_Y",
+        "default": 0.0
+    },
+    {
+        "name": "class_AMO",
+        "default": 0.0
+    },
+    {
+        "name": "class_APO",
+        "default": 0.0
+    },
+    {
+        "name": "class_AST",
+        "default": 0.0
+    },
+    {
+        "name": "class_ATE",
+        "default": 0.0
+    },
+    {
+        "name": "class_CEN",
+        "default": 0.0
+    },
+    {
+        "name": "class_IMB",
+        "default": 0.0
+    },
+    {
+        "name": "class_MBA",
+        "default": 1.0
+    },
+    {
+        "name": "class_MCA",
+        "default": 0.0
+    },
+    {
+        "name": "class_OMB",
+        "default": 0.0
+    },
+    {
+        "name": "class_TJN",
+        "default": 0.0
+    },
+    {
+        "name": "class_TNO",
+        "default": 0.0
+    }
+]

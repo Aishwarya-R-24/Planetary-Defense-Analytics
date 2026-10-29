@@ -1,0 +1,10 @@
+pip install pandas
+pip install sci-kit learn
+pip install matplotlib
+pip install seaborn
+pip install imbalanced-learn
+pip install xgboost
+pip install mlflow
+pip install shap
+pip install streamlit
+pip install streamlit-option-menu
