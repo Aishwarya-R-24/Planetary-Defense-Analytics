@@ -23,7 +23,7 @@ with st.sidebar:
 if selected == "PHA Classification":
     st.subheader("Potentially Hazardous Asteroid Classification")
     
-    MODEL_NAME = "PHA_RandomForest_Classifier"
+    MODEL_NAME = "Planetary_Defense_Classification"
     MODEL_VERSION = "1"
 
     mlflow.set_tracking_uri("http://127.0.0.1:5000")
@@ -97,7 +97,7 @@ if selected == "PHA Classification":
 if selected == "Diameter Prediction":
     st.subheader("Asteroid Diameter Estimation")
     
-    MODEL_NAME = "Asteroid_Diameter_Regressor"
+    MODEL_NAME = "Asteroid_Diameter_Regression"
     MODEL_VERSION = "1"
 
 
@@ -154,7 +154,7 @@ if selected == "Diameter Prediction":
 if selected == "Asteroid Clustering":
     st.subheader("Asteroid Clustering")
 
-    model_name = "Asteroid_KMeans_Model"
+    model_name = "Asteroid_Clustering"
     model_version = "1"
 
     model_uri = f"models:/{model_name}/{model_version}"
